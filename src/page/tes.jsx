@@ -6,3 +6,5 @@ function tes (){
         </div>
     )
 }
+
+export default tes;
